@@ -5,6 +5,7 @@ public class CycleEntry extends Entry {
 	private String terrain;
 	private String tempo;
 	
+	//constructor
 	public CycleEntry(String n, int d, int m, int y, int h, int min, int s, float dist, String terr, String tem) {
 		super(n, d, m, y, h, min, s, dist);
 		terrain = terr;
