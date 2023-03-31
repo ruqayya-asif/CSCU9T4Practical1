@@ -1,3 +1,4 @@
+// This class holds information about a single sprint training session
 package com.stir.cscu9t4practical1;
 
 public class SprintEntry extends Entry {
